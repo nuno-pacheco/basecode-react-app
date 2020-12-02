@@ -1,0 +1,8 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "36f4b8cf-2e10-4f90-8e8a-fd6df7acef86"

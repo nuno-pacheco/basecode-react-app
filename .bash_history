@@ -1,0 +1,171 @@
+ 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+[A
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew update
+brew
+brew install zsh
+zsh --version
+curl -L http://install.ohmyz.sh | sh
+~
+~#cd Desktop#mkdir test-vs-code#cd test-vs-code#touch index.html#code index.html
+~
+cd Desktop # cd stands for change directory, and we use it to navigate
+mkdir test-vs-code # mkdir is the terminal command to create a new folder
+cd test-vs-code
+touch index.html # touch is a terminal command that allows us to create files
+code index.html # this line allows us to open index.html using VS Code
+~
+cd Desktop
+mkdir test-vs-code 
+cd test-vs-code
+touch index.html 
+code index.html 
+git --version
+git config --global user.name "Nuno Pacheco"
+git config --global user.email nunorpacheco@gmail.com
+cmd+i
+CMD+i
+iTerm → Preferences → Profiles → Colors → Color presets → Import
+hostname
+whoami
+pwd
+whoami
+cd ~
+cd ~
+pwd
+ls
+cd de
+cd descktop
+mkdir new-folder
+rmdir folder-rio
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew
+brew install zsh
+zsh --version
+zsh --version
+curl -L http://install.ohmyz.sh | sh
+~
+cd Desktop
+mkdir test-vs-code 
+cd test-vs-code
+touch index.html 
+code index.html ~
+cd Desktop
+mkdir test-vs-code 
+cd test-vs-code
+touch index.html 
+code index.html 
+~
+cd Desktop
+mkdir test-vs-code
+cd test-vs-code
+touch index.html
+code index.html
+~
+$ cd Desktop # cd stands for change directory, and we use it to navigate
+$ mkdir test-vs-code # mkdir is the terminal command to create a new folder
+$ cd test-vs-code
+$ touch index.html # touch is a terminal command that allows us to create files
+$ code index.html # this line allows us to open index.html using VS Cod
+~
+cd Desktop # cd stands for change directory, and we use it to navigate
+mkdir test-vs-code # mkdir is the terminal command to create a new folder
+cd test-vs-code
+touch index.html # touch is a terminal command that allows us to create files
+code index.html # this line allows us to open index.html using VS Code
+cd Desktop # cd stands for change directory, and we use it to navigate
+mkdir test-vs-code # mkdir is the terminal command to create a new folder
+cd test-vs-code
+touch index.html # touch is a terminal command that allows us to create files
+code index.html # this line allows us to open index.html using VS Code
+cd de
+~
+cd Desktop # cd stands for change directory, and we use it to navigate
+mkdir test-vs-code # mkdir is the terminal command to create a new folder
+cd test-vs-code
+touch index.html # touch is a terminal command that allows us to create files
+code index.html # this line allows us to open index.html using VS Code
+git --version
+git config --global user.name "Nuno Pacheco"git config --global user.email nunorpacheco@gmail.com
+whoami
+pwd
+ls
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+ZSH_THEME="powerlevel9k/powerlevel9k"
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(dir rbenv vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status root_indicator background_jobs history time)
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+brew install zsh-syntax-highlighting
+~/.zshrc
+hostname
+whoami
+pwd
+cd stylesheets
+cd /
+cd ~
+cd -
+ls
+ls -l
+ls -t
+ls -s
+ls -r
+ls -a
+cd ~
+cd de
+cd desktop
+cd des
+mkdir new-folder
+mkdir new-folder
+rmdir new-folder
+touch new-file.html
+mkdir my-files
+cd my-files
+touch file-1.txt
+touch file-2.txt
+mkdir my-files
+cd my-files
+touch file-1.txt file-2.txt
+mkdir & cd my-files ==> create directory my-files and enter it
+touch file-1.txt file-2.txt file-3.txt ==> create files
+cd ..
+rm -rf my-files
+cat <my-files>
+cat <PACHECO>
+touch hello.txt
+cp hello.txt copied.txt
+mkdir copied-files
+cp hello.txt copied-files/
+cp -r
+mkdir temp
+cd temp
+touch awesome.txt
+ls temp
+mv awesome.txt uncool.txt
+ls
+mv uncool.txt /Users/nunorpacheco/Desktop
+ls
+ls /Users/nunorpacheco/Desktop
+..
+../../
+Current Location: ~/
+$ cd Desktop
+Current Location: ~/Desktop/
+$ cd Ironhack
+Current Location: ~/Desktop/Ironhack/
+$ cd labs
+....
+`chsh -s /bin/zsh`
+Current Location: ~/
+$ cd Desktop
+Current Location: ~/Desktop/
+$ cd Ironhack
+Current Location: ~/Desktop/Ironhack/
+$ cd labs
+....
+Current Location: ~/
+cd Desktop/Ironhack/labs
+Current Location: ~/
+cd Desktop/Ironhack/labs
